@@ -1,143 +1,106 @@
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
+    title: Online Resume
+    url: 'http://chabzlala29.github.io/online-cv'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+    name: Charles Darwin Pobre
+    tagline: Full Stack Software Engineer
+    pic: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: cpobre.peg@gmail.com
+    phone: +63 926 3266 547
+    website: github.com/chabzlala29 #do not add http://
+    linkedin: charles-pobre
+    github: chabzlala29
+    twitter: '@chabzlala29'
 
     languages:
         - language:
-          idiom: English
+          idiom: Filipino
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
-        
+
     interests:
         - interest:
-          item: Climbing
+          item: Music
           link:
         - interest:
-          item: Snowboarding
+          item: Arts
           link:
         - interest:
-          item: Cooking
+          item: Travel
           link:
 
-        
-
-
-
-
-career-profile: 
+career-profile:
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'Experienced Ruby on Rails developer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize data storage, e-commerce functionality, and fluidity across mobile platforms. A leader in identifying opportunities for applications development.'
 
-
-studies: 
+studies:
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
+      degree: Bachelor of Science in Information Technology
+      university: Central Luzon State University
+      time: 2007 - 2012
+      details:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+    intro: "Here are some of my projects from my past companies and clients."
+
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: WeteachMe
+        link: "weteachme.com"
+        tagline: "WeTeachMe is the go-to place for people to discover and book the best and most popular classes in Australia, as well as a booking system that helps teachers and schools build and grow successful businesses."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: StyleCity
+        link: "stylecity.com.au"
+        tagline: "Look and feel amazing by connecting with the top beauty and wellness professionals near you"
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: Old Haileybury Association website
+        link: "oha.org.au"
+        tagline: "A responsive website created for Old Haileybury Association"
       - project:
-        title: Atom
+        title: RMIT Launchpad
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A responsive website created for RMIT University"
       - project:
-        title: Delta
+        title: Nuvali PH
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "A website created for Nuvali PH that showcase amenities and activities"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
+          name: Ruby
+          level: 99%
         - skill:
           name: Ruby on Rails
-          level: 85%
+          level: 100%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Javascript
+          level: 99%
+        - skill:
+          name: AngularJS
+          level: 100%
+        - skill:
+          name: NodeJS
+          level: 70%
+        - skill:
+          name: EmberJS
+          level: 80%
+        - skill:
+          name: HTML5 & CSS
+          level: 90%
+        - skill:
+          name: Amazon Web Services (Compute)
+          level: 80%
 
-
-footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+footer:
+    text: 'Designed with <i class="fa fa-heart"></i> by Charles Darwin Pobre (Web Guru)'
