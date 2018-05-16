@@ -111,6 +111,9 @@ skills:
           name: HTML5 & CSS
           level: 90%
         - skill:
+          name: ReactJS
+          level: 60%
+        - skill:
           name: Amazon Web Services (Compute)
           level: 80%
 
