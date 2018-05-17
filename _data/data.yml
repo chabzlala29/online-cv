@@ -54,35 +54,35 @@ projects:
     projects:
       - project:
         title: Online Counseling Manager
-        link: "uat.ocmapp.net"
+        link: "https://uat.ocmapp.net"
         tagline: "Our solution is tailored to mental health practitioners to help them manage heavy clinical case loads. The workflows reflect the day-to-day activities to schedule appointments, facilitate sessions, and document progress."
       - project:
         title: Online Counseling Manager (Admin site)
-        link: "devadmin.ocmapp.net"
+        link: "http://devadmin.ocmapp.net"
         tagline: "This serves as the dashboard app for OCM owners."
       - project:
         title: Business Core
-        link: "app.bcore.co.il"
+        link: "http://app.bcore.co.il"
         tagline: "Business Core is your one stop web application for your accounting needs. Currently it is based in Israel and plan to expand to other countries as well."
       - project:
         title: WeteachMe
-        link: "weteachme.com"
+        link: "https://weteachme.com"
         tagline: "WeTeachMe is the go-to place for people to discover and book the best and most popular classes in Australia, as well as a booking system that helps teachers and schools build and grow successful businesses."
       - project:
         title: StyleCity
-        link: "stylecity.com.au"
+        link: "https://stylecity.com.au"
         tagline: "Look and feel amazing by connecting with the top beauty and wellness professionals near you"
       - project:
         title: Old Haileybury Association website
-        link: "oha.org.au"
+        link: "https://oha.org.au"
         tagline: "A responsive website created for Old Haileybury Association"
       - project:
         title: RMIT Launchpad
-        link: "#"
+        link: "https://rmitlaunchpad.com"
         tagline: "A responsive website created for RMIT University"
       - project:
         title: Nuvali PH
-        link: "#"
+        link: "https://nuvali.ph"
         tagline: "A website created for Nuvali PH that showcase amenities and activities"
 
 
